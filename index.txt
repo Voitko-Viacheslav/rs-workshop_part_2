@@ -1,1 +1,4 @@
-I want to use --amend command
+I want to use --amend command 
+
+I want use --amend and change commit massege
+go
